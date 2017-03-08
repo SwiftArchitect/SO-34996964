@@ -2,6 +2,7 @@
 ### (Expand and contract table view cell on iOS)
 
 ![preview](https://i.stack.imgur.com/GHHUm.gif)
+
 [↻ replay animation](https://i.stack.imgur.com/GHHUm.gif)
 
 ---
