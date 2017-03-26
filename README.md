@@ -8,7 +8,8 @@
 ---
 
 ### Stack Overflow Question 34996964
-Xcode project & source code related to [Selection is destroyed by selectRowAtIndexPath](http://stackoverflow.com/a/34997679/218152) anwser.
+
+Xcode project & source code related to [Selection is destroyed by selectRowAtIndexPath](https://stackoverflow.com/questions/34996964/strange-behavior-of-uitextview-in-uitableviewcell/34997679#34997679) answer.
 
 ---
 
@@ -18,6 +19,6 @@ Xcode project & source code related to [Selection is destroyed by selectRowAtInd
 
 **References:**
 
-- SO-34996964 on [Stack Overflow](http://stackoverflow.com/questions/34996964/strange-behavior-of-uitextview-in-uitableviewcell)
+- Question [34996964](https://stackoverflow.com/questions/34996964) on Stack Overflow
 - This and other answers posted on [Swift Recipes](http://swiftarchitect.com/recipes/)
 
